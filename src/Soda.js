@@ -1,6 +1,5 @@
 import React from "react";
 import soda from "./soda.png";
-import { Link } from "react-router-dom";
 import HomeBtn from "./HomeBtn";
 
 function Soda () {

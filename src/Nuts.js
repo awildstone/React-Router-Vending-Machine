@@ -1,6 +1,5 @@
 import React from "react";
 import nuts from "./nuts.png";
-import { Link } from "react-router-dom";
 import HomeBtn from "./HomeBtn";
 
 function Nuts () {
