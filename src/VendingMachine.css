@@ -1,0 +1,30 @@
+.row {
+	display: flex;
+	justify-content: center;
+}
+
+.column {
+	flex: 33%;
+}
+
+.welcome {
+	color: white;
+	padding: 20px;
+	text-shadow: 2px 2px 2px #672938;
+	font-size: 2em;
+	width: 300px;
+	margin-top: 100px;
+}
+
+.Selection {
+	color: white;
+	text-shadow: 2px 2px 2px #672938;
+	font-size: 2em;
+	width: 300px;
+	margin-top: 100px;
+}
+
+a {
+	color: #bee13c;
+	text-decoration: none;
+}
